@@ -1,1 +1,1 @@
-# Addon for Lof3Di4
+# Addon for Lof3Di
